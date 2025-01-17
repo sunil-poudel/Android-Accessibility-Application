@@ -26,7 +26,7 @@
             android:name=".accessibility.MyAccessibilityService"
             android:exported="true"
             android:permission="android.permission.BIND_ACCESSIBILITY_SERVICE"
-            android:label="@string/accessibility_service_youtube_label"
+            android:label="@string/accessibility_service_label"
             >
             <intent-filter>
                 <action android:name="android.accessibilityservice.AccessibilityService"/>

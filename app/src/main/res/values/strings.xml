@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">Accessibility Application</string>
-    <string name="accessibility_service_youtube_label">Youtube accessibility service</string>
-    <string name="description_accessibility_config_youtube">this is accessibility service accessing youtube\'s scroll time.\n</string>
+    <string name="accessibility_service_label">Accessibility Services from Sunil</string>
     <string name="description_accessibility_config">accessibility configuration settings.</string>
 </resources>
