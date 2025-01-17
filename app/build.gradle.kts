@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace = "com.sunil_poudel.accessibilityapplication"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.sunil_poudel.accessibilityapplication"
