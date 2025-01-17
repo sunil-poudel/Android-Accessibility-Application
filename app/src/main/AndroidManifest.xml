@@ -23,7 +23,7 @@
         </activity>
 
         <service
-            android:name=".accessibility.YoutubeAccessibilityService"
+            android:name=".accessibility.MyAccessibilityService"
             android:exported="true"
             android:permission="android.permission.BIND_ACCESSIBILITY_SERVICE"
             android:label="@string/accessibility_service_youtube_label"
@@ -34,7 +34,7 @@
 
             <meta-data
                 android:name="android.accessibilityservice"
-                android:resource="@xml/youtube_accessibility_config"/>
+                android:resource="@xml/my_accessibility_config"/>
         </service>
     </application>
 
